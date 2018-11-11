@@ -13,6 +13,10 @@ You may use this as following
  //Navigate to folder you want to create file into
  >> go run picmate.go your_file_name.c 
  
+ Or if you had downloaded the precompiled exe file then you may use this with just following command
+ 
+ >> picmate your_file_name.c
+ 
  ```
 
 ## Note 
