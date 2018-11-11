@@ -40,7 +40,7 @@ func closeBody() string{
 
 
 func composeAllProgram()string{
-  return getIncludeControllerName("PIC16F887")+
+  return getIncludeControllerName("16F887")+
   getDeviceSignature(16)+
   getDefaultFuseBits()+
   getUseDelay(8000000)+
