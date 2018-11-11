@@ -3,7 +3,7 @@ Automatic code generator for PIC microcontrollers. Currently Supporting PIC16F a
 
 
 ## Version History
--- [V0.1] A new file is created in current folder with the provided name by command line argument
+- [V0.1] A new file is created in current folder with the provided name by command line argument
 
 
 ## Usage 
